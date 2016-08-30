@@ -1,0 +1,4 @@
+C:\CRUD_CSHARP\Web\WebAppCrud\WebAppCrud\bin\WebAppCrud.dll
+C:\CRUD_CSHARP\Web\WebAppCrud\WebAppCrud\bin\WebAppCrud.pdb
+C:\CRUD_CSHARP\Web\WebAppCrud\WebAppCrud\obj\Debug\WebAppCrud.dll
+C:\CRUD_CSHARP\Web\WebAppCrud\WebAppCrud\obj\Debug\WebAppCrud.pdb

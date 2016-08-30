@@ -1,0 +1,8 @@
+
+CREATE TABLE clientes(
+codigo INT PRIMARY KEY IDENTITY(1,1),
+nome VARCHAR(100),
+email VARCHAR(60),
+descricao TEXT,
+dt_atualizacao SMALLDATETIME DEFAULT GETDATE(),
+);

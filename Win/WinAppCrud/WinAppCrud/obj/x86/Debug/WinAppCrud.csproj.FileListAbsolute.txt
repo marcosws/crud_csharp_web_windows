@@ -1,0 +1,11 @@
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\bin\Debug\WinAppCrud.exe.config
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\bin\Debug\WinAppDB.mdf
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\bin\Debug\WinAppDB_log.ldf
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\bin\Debug\WinAppCrud.exe
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\bin\Debug\WinAppCrud.pdb
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\obj\x86\Debug\WinAppCrud.Principal.resources
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\obj\x86\Debug\WinAppCrud.Properties.Resources.resources
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\obj\x86\Debug\WinAppCrud.csproj.GenerateResource.Cache
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\obj\x86\Debug\WinAppCrud.exe
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\obj\x86\Debug\WinAppCrud.pdb
+C:\CRUD_CSHARP\Win\WinAppCrud\WinAppCrud\obj\x86\Debug\WinAppCrud.csprojResolveAssemblyReference.cache
